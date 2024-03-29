@@ -1,3 +1,11 @@
+Cardiovascular diseases (CVDs) are a significant global health concern, contributing to a substantial number of deaths each year. Early detection and prediction of CVDs can greatly aid in preventive healthcare and timely intervention. This project aims to develop a predictive
+model for cardiovascular diseases using machine learning techniques.
+
+Objective:
+The primary objective of this project is to predict the likelihood of an individual having cardiovascular disease based on various risk factors and clinical parameters. By leveraging machine learning algorithms, particularly Random Forest Classifier, the model will analyze
+input data to provide predictions.
+
+
 ![Screenshot 2024-03-22 004504](https://github.com/ykhan2476/CardiovascularHeartDiseasePrediction.io/assets/113904335/0facc63f-0b98-4344-b2af-834dd974a415)
 
 Figure 1: It is the main screen of Cardiovascular Disease Predictor.
@@ -15,12 +23,7 @@ Figure 3: After clicking “OK” button in the message box it shows the message
 Figure 4: After clicking “OK” button in the message box it shows the message with red if the person is likely to have a cardiovascular disease.
 
 
-Cardiovascular diseases (CVDs) are a significant global health concern, contributing to a substantial number of deaths each year. Early detection and prediction of CVDs can greatly aid in preventive healthcare and timely intervention. This project aims to develop a predictive
-model for cardiovascular diseases using machine learning techniques.
 
-Objective:
-The primary objective of this project is to predict the likelihood of an individual having cardiovascular disease based on various risk factors and clinical parameters. By leveraging machine learning algorithms, particularly Random Forest Classifier, the model will analyze
-input data to provide predictions.
 
 Key Features of the Project:
 1. User-Friendly Interface: The project provides a user-friendly graphical interface where users can input relevant information such as age, gender, blood pressure, cholesterol levels, etc.
