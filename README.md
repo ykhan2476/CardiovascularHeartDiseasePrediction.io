@@ -10,13 +10,16 @@ input data to provide predictions.
 
 Figure 1: It is the main screen of Cardiovascular Disease Predictor.
 
+
 ![Screenshot 2024-03-22 004537](https://github.com/ykhan2476/CardiovascularHeartDiseasePrediction.io/assets/113904335/cee440a9-e8ee-4ecb-92ba-f910918798bc)
 
 Figure 2 : Press “Predict” button to see the model accuracy and the likeliness of a person having a cardiovascular disease.
 
+
 ![Screenshot 2024-03-22 004553](https://github.com/ykhan2476/CardiovascularHeartDiseasePrediction.io/assets/113904335/f40f8930-f811-40df-bec4-c7a6c324de36)
 
 Figure 3: After clicking “OK” button in the message box it shows the message with Black if the person is unlikely to have a cardiovascular disease.
+
 
 ![Screenshot 2024-03-22 004615](https://github.com/ykhan2476/CardiovascularHeartDiseasePrediction.io/assets/113904335/d1983dc2-fe96-4a17-ad41-6bdb52210105)
 
